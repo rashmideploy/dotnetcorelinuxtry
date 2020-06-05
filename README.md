@@ -1,0 +1,2 @@
+# dotnetcorelinuxtry
+lasttry
